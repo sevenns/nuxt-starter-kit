@@ -1,6 +1,6 @@
-# NuxtFire Starter Kit
+# Nuxt Starter Kit
 
-> Nuxt.js starter kit with sass, pug, svg icons, linters
+> Nuxt.js starter kit with pug, sass, svg icons, sass and es linters.
 
 # Requirements
 
